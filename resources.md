@@ -1,4 +1,4 @@
-# Resources
+# Free Resources
 
 
 - [Rust](https://www.rust-lang.org/)
@@ -10,3 +10,4 @@
 - [This Week in Rust](https://this-week-in-rust.org/) - a weekly newsletter
 - [Rust Playground](https://play.rust-lang.org/) - web-based tool for trying Rust code
 - [Rust Learning](https://github.com/ctjhoa/rust-learning) - a compilation of links on learning Rust
+- [Rust Exercises](https://doc.rust-lang.org/book/second-edition/ch02-00-guessing-game-tutorial.html) - New ebook
